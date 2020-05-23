@@ -5,5 +5,5 @@ This repository contains resources produced in our research on the **investigati
 * **source** - model output data and SAS code to render figures in the manuscript
 * **compiled** - compiled manuscript as PDF
 
-Key findings were presented in a live webinar. The recording is available on [Youtube](https://www.youtube.com/watch?v=VMwoawgGv80&t=75s){target="_blank"}.
+Key findings were presented in a live webinar. The recording is available on [Youtube](https://www.youtube.com/watch?v=VMwoawgGv80&t=75s).
 
